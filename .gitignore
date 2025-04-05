@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/sqlrunner/.vs/sqlrunner/FileContentIndex
+/sqlrunner/.vs/sqlrunner/v17
+/sqlrunner/bin/Debug/net8.0
+/sqlrunner/obj
